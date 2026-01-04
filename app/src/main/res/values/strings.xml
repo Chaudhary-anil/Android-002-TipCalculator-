@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">TipCalculator</string>
+    <string name="app_title">Tip Calculator</string>
+    <string name="reset">Reset</string>
+    <string name="billAmount">Bill Amount</string>
+    <string name="bill_label">Bill</string>
+
+<!--    % yo sign dekhauna ko lagi double %% dinu parxa -->
+    <string name="tip_percent">Tip %%: %1$d</string>
+
+    <string name="split">Split: %1$d</string>
+    <string name="total">Total: %1$s</string>
+    <string name="per_person">Per Person: %1$s</string>
 </resources>
